@@ -1,1 +1,1 @@
-UPDATE characters SET species = "Martian" HAVING MAX(character.id)
+UPDATE characters SET characters.pecies = "Martian" HAVING MAX(characters.id)
