@@ -1,1 +1,1 @@
-UPDATE characters SET characters.species = "Martian" HAVING characters.id = 8
+UPDATE characters SET species = "Martian" HAVING id = 8
